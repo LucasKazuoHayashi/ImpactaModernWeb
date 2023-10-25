@@ -1,0 +1,30 @@
+{
+    "name": "aula_web_full06",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "start": "next dev",
+        "build": "next build",
+        "prod": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.11.1",
+        "@emotion/styled": "^11.11.0",
+        "@fontsource/roboto": "^5.0.8",
+        "@mui/icons-material": "^5.14.15",
+        "@mui/material": "^5.14.15",
+        "@mui/styled-engine-sc": "^6.0.0-alpha.3",
+        "next": "latest",
+        "next-pwa": "^5.6.0",
+        "react": "latest",
+        "react-dom": "latest",
+        "styled-components": "^6.1.0"
+    },
+    "devDependencies": {
+        "@types/node": "latest",
+        "@types/react": "latest",
+        "@types/react-dom": "latest",
+        "typescript": "5.2.2"
+    }
+}
